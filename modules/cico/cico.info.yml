@@ -1,0 +1,9 @@
+name: Check in check out 
+type: module
+description: 'Employee Time Tracking and Managment System'
+version: 8.x
+core: 8.x
+package: Field types
+dependencies:
+  - drupal:datetime
+  - drupal:datetime_range

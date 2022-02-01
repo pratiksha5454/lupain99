@@ -1,0 +1,26 @@
+drupalup_controller.article_list:
+  path: '/cico/timesheet'
+  defaults:
+    _form: '\Drupal\cico\Form\Ems'
+    _title: 'Daily Update Form'
+  requirements:
+    _permission: 'access content'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
